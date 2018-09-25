@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+    <vehicle type="bike">
+        <manufacturer>Hero Honda</manufacturer>
+        <model>Passion</model>
+        <price>55000</price>
+        <colors>
+            <color>red</color>
+            <color>black</color>
+            <color>blue</color>
+        </colors>
+    </vehicle>
+ 
+    <vehicle type="bike">
+        <manufacturer>Hero Honda</manufacturer>
+        <model>Splendor</model>
+        <price>50000</price>
+        <colors>
+            <color>red</color>
+            <color>black</color>
+            <color>blue</color>
+        </colors>
+    </vehicle>
+ 
+    <vehicle type="bike">
+        <manufacturer>Bajaj</manufacturer>
+        <model>Pulsar</model>
+        <price>60000</price>
+        <colors>
+            <color>red</color>
+            <color>black</color>
+        </colors>
+    </vehicle>
+ 
+    <vehicle type="car">
+        <manufacturer>Honda</manufacturer>
+        <model>City</model>
+        <price>1000000</price>
+        <colors>
+            <color>red</color>
+            <color>black</color>
+        </colors>
+    </vehicle>
+ 
+    <vehicle type="car">
+        <manufacturer>Maruti Suzuki</manufacturer>
+        <model>Swift</model>
+        <price>600000</price>
+        <colors>
+            <color>white</color>
+            <color>red</color>
+            <color>black</color>
+        </colors>
+    </vehicle>
+ 
+</vehicles>
